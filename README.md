@@ -1,7 +1,6 @@
 # Health Monitor App
-
-## Screenshots
-Here are some screenshots of the app:
+## Overview
+The **Health Monitor App** allows users to track their health metrics like heart rate, blood sugar, and BMI (Body Mass Index). It provides an easy-to-use interface for recording and viewing health data.
 ### Dashboard
 ![Dashboard](https://github.com/Ahmadh24/Health-Monitor-App/blob/main/Screenshots/Screenshot%202024-12-08%20at%208.22.13%E2%80%AFPM.png)
 
@@ -12,10 +11,6 @@ Here are some screenshots of the app:
 
 ### BMI Calculator
 ![Dashboard](https://github.com/Ahmadh24/Health-Monitor-App/blob/main/Screenshots/Screenshot%202024-12-08%20at%208.39.41%E2%80%AFPM.png)
-
-
-## Overview
-The **Health Monitor App** allows users to track their health metrics like heart rate, blood sugar, and BMI (Body Mass Index). It provides an easy-to-use interface for recording and viewing health data.
 
 ## Features
 - **Track Heart Rate**: Record your heart rate and view recent entries.
